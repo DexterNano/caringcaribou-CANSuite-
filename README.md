@@ -1,3 +1,15 @@
+
+
+## Al Nano del futuro:
+Tienes que mirar si alguno de estos test sirven con el protocolo del saab, hasta ahora lo que has probado no ha funcionado porque los protocolos que usan estas distros suelen ser mas nuevos, a la espera del cacharro nuevo que esperemos falle algo menos 
+
+
+
+
+
+
+
+
 # Caring Caribou
 A friendly automotive security exploration tool.
 
